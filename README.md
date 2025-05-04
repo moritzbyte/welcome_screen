@@ -1,28 +1,27 @@
-# Welcome Screen
+Welcome Screen
 
 A simple Python-based welcome screen that displays a custom message when logging in to your system. It uses a customizable font and animated text to greet the user.
 
-## Features
+Features:
 
-- Displays a welcome message when you log in.
-- Customizable text: Replace the default message with any text you like.
-- Animated text effect: The message is revealed character by character.
-- Custom font: **ByteBounce** is required for the full effect.
+    Displays a welcome message when you log in.
 
-## Prerequisites
+    Customizable text: Replace the default message with any text you like.
+
+    Animated text effect: The message is revealed character by character.
+
+    Custom font: ByteBounce is required for the full effect.
+
+Prerequisites:
 
 To use this project, you need:
 
-- **Python 3.x** installed on your system.
-- The **ByteBounce** font installed on your system.
+    Python 3.x installed on your system.
 
-## Installation
+    The ByteBounce font installed on your system.
 
-### Clone the repository
 
-```bash
-git clone https://github.com/moritzbyte/welcome_screen.git
-cd welcome_screen
+
 
 Install the necessary dependencies
 
@@ -76,12 +75,3 @@ Known Issues
     The script is designed for Linux-based systems. You might need to adjust the settings if you're using macOS or Windows.
 
     Font rendering might look different based on your system and installed fonts.
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-Acknowledgments
-
-    Font used: ByteBounce (this font is required for the full effect).
-
-    Inspired by the "hacker" aesthetic seen in movies and terminal-based applications.
