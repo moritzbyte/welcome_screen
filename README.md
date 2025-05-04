@@ -30,7 +30,7 @@ Install the ByteBounce font
 
 To use the ByteBounce font, follow these steps:
 
-- Download the ByteBounce.ttf font file from here or any other font provider.
+- Download the ByteBounce.ttf font file from here (https://www.1001fonts.com/bytebounce-font.html) or any other font provider.
 
 -Move the downloaded .ttf file to the system font directory:
 
