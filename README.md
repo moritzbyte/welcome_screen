@@ -66,9 +66,7 @@ Insert the following content if not automatically seen
         Name=Welcome Screen
         Comment=Displays a welcome message at login
 
-        Ersetze /path/to/welcome_screen/ mit dem tatsächlichen Pfad zu deinem geklonten Repository.
 
-        Speichere und schließe die Datei. Der Autostart-Eintrag wird nun beim nächsten Anmelden aktiv sein.
 
 Known Issues
 
