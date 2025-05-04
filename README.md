@@ -70,6 +70,6 @@ Insert the following content if not automatically seen
 
 Known Issues
 
-   The script is designed for Linux-based systems. You might need to adjust the settings if you're using macOS or Windows.
+   The script is designed for Linux-based systems.
 
    Font rendering might look different based on your system and installed fonts.
