@@ -4,21 +4,21 @@ A simple Python-based welcome screen that displays a custom message when logging
 
 Features:
 
-    Displays a welcome message when you log in.
+ - Displays a welcome message when you log in.
 
-    Customizable text: Replace the default message with any text you like.
+ - Customizable text: Replace the default message with any text you like.
 
-    Animated text effect: The message is revealed character by character.
+ - Animated text effect: The message is revealed character by character.
 
-    Custom font: ByteBounce is required for the full effect.
+ - Custom font: ByteBounce is required for the full effect.
 
 Prerequisites:
 
 To use this project, you need:
 
-    Python 3.x installed on your system.
+ - Python 3.x installed on your system.
 
-    The ByteBounce font installed on your system.
+ - The ByteBounce font installed on your system.
 
 
 
@@ -30,12 +30,12 @@ Install the ByteBounce font
 
 To use the ByteBounce font, follow these steps:
 
-    Download the ByteBounce.ttf font file from here or any other font provider.
+- Download the ByteBounce.ttf font file from here or any other font provider.
 
-    Move the downloaded .ttf file to the system font directory:
+-Move the downloaded .ttf file to the system font directory:
 
-sudo mkdir -p /usr/share/fonts/truetype/ByteBounce
-sudo mv ByteBounce.ttf /usr/share/fonts/truetype/ByteBounce/
+    sudo mkdir -p /usr/share/fonts/truetype/ByteBounce
+    sudo mv ByteBounce.ttf /usr/share/fonts/truetype/ByteBounce/
 
 Update the font cache:
 
@@ -43,19 +43,19 @@ Update the font cache:
 
 Usage
 
-    After cloning the repository, navigate to the folder where the script is located.
+After cloning the repository, navigate to the folder where the script is located.
 
-    To manually run the welcome screen:
+To manually run the welcome screen:
 
-python3 login_welcome.py
+    python3 login_welcome.py
 
 To make the script run at login, add it to your system's autostart configuration:
 
-    Create a new .desktop file for autostart:
+Create a new .desktop file for autostart:
 
-nano ~/.config/autostart/login_welcome.desktop
+    nano ~/.config/autostart/login_welcome.desktop
 
-Füge folgenden Inhalt ein:
+Insert the following content if not automatically seen
 
         [Desktop Entry]
         Type=Application
