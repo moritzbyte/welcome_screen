@@ -32,7 +32,7 @@ To use the ByteBounce font, follow these steps:
 
 - Download the ByteBounce.ttf font file from here (https://www.1001fonts.com/bytebounce-font.html) or any other font provider.
 
-- Move the downloaded .ttf file to the system font directory:
+ Move the downloaded .ttf file to the system font directory:
 
     sudo mkdir -p /usr/share/fonts/truetype/ByteBounce
     sudo mv ByteBounce.ttf /usr/share/fonts/truetype/ByteBounce/
